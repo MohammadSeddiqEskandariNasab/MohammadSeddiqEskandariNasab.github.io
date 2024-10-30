@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "Structural Engineer"
   location         : "Daejeon, South Korea"
-  employer         : "Korea Advanced Institute of Science & Technology (KAIST)"
-  uri              : # URL
+  employer         : "KAIST"
+  uri              : "https://aaml.kaist.ac.kr/"
   email            : "eskandari@kaist.ac.kr" 
 
   # Academic websites
