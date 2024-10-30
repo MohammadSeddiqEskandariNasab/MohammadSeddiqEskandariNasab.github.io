@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hey, I'm Seddiq!
 
-🌍 World traveler (from Iran to South Korea 🇮🇷➡️🇰🇷) and structural engineering wizard 🏗️🔮. By day, I'm deep into seismic retrofits, surrogate models, and high-stakes research 🔍📊; by night, I'm a self-taught beard barber, rocking a DIY fade with my trusty clippers 💈💪.
+I'm Seddiq! 🌍 World traveler (from Iran to South Korea 🇮🇷➡️🇰🇷) and structural engineering wizard 🏗️🔮. By day, I'm deep into seismic retrofits, surrogate models, and high-stakes research 🔍📊; by night, I'm a self-taught beard barber, rocking a DIY fade with my trusty clippers 💈💪.
 
 I've got a Ph.D. in making buildings stronger and safer 🛠️🏢, but I’m always up for learning new things – especially if it involves leveling up my English skills 📚💬. South Korea left a mark on me with its friendly people and incredible food 🍲🍣, and I’m all set for the next adventure, possibly in the U.S. 🇺🇸. 
 
-Here’s to strong structures, perfect fades, and never-ending curiosity! 🎉
+Here’s to safe structures, perfect fades, and never-ending curiosity! 🎉
 
 
 A data-driven personal website
