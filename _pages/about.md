@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+# 👋 Hey, I'm Seddiq!
+
+🌍 World traveler (from Iran to South Korea 🇮🇷➡️🇰🇷) and structural engineering wizard 🏗️🔮. By day, I'm deep into seismic retrofits, surrogate models, and high-stakes research 🔍📊; by night, I'm a self-taught beard barber, rocking a DIY fade with my trusty clippers 💈💪.
+
+I've got a Ph.D. in making buildings stronger and safer 🛠️🏢, but I’m always up for learning new things – especially if it involves leveling up my English skills 📚💬. South Korea left a mark on me with its friendly people and incredible food 🍲🍣, and I’m all set for the next adventure, possibly in the U.S. 🇺🇸. 
+
+Here’s to strong structures, perfect fades, and never-ending curiosity! 🎉
+
 
 A data-driven personal website
 ======
