@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Impacts of Soil-Structure Interaction on the Structural Control of Nonlinear Systems Using Adaptive Control Approach"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-02-15-soil-structure-interaction-adaptive-control
+excerpt: 'This paper investigates the effects of soil-structure interaction (SSI) on the structural control of nonlinear systems under seismic loads, utilizing the simple adaptive control (SAC) algorithm in conjunction with a magnetorheological (MR) damper.'
+date: 2018-02-15
+venue: 'Engineering Structures'
+volume: '157'
+pages: '1-13'
+paperurl: 'https://doi.org/10.1016/j.engstruct.2017.11.071'
+citation: 'Fereidoun Amini, Maryam Bitaraf, Mohammad Seddiq Eskandari Nasab, Mohammad Mahdi Javidan. (2018). &quot;Impacts of Soil-Structure Interaction on the Structural Control of Nonlinear Systems Using Adaptive Control Approach.&quot; <i>Engineering Structures</i>, 157: 1-13.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper explores how soil-structure interaction (SSI) effects can significantly impact the response of structures under seismic loads, a factor often overlooked in traditional structural control. Utilizing the simple adaptive control (SAC) algorithm alongside a magnetorheological (MR) damper, the study analytically examines SSI influences on nonlinear structures. Results are compared with both passive-on and passive-off states. With a prototype structure built from experimental tests, the study establishes a reliable framework by validating the structural model's accuracy. The paper also analyzes control forces, SAC performance in soil-structure systems, and includes a fragility analysis to evaluate structural behavior under various SSI effects.
